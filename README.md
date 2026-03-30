@@ -47,3 +47,7 @@ This project analyzes the Olist Brazilian e-commerce dataset using SQL to identi
 
 ```sql
 delivery_delay = delivered_date - estimated_delivery_date
+```
+
+## Tableau Dashboards
+https://public.tableau.com/app/profile/joohyung.oh/viz/olist-sql/Dashboard2
