@@ -25,6 +25,12 @@ This project analyzes the Olist Brazilian e-commerce dataset using SQL to identi
 
 ---
 
+## Key Insights
+- Delivery delays are strongly associated with lower review scores
+- Certain high-revenue categories show lower customer satisfaction
+- Payment method usage varies across order values
+- Regional differences exist in delivery efficiency and customer ratings
+
 ## Dataset
 
 - Source: Olist Brazilian E-commerce Dataset (Kaggle)  
@@ -47,3 +53,11 @@ This project analyzes the Olist Brazilian e-commerce dataset using SQL to identi
 
 ```sql
 delivery_delay = delivered_date - estimated_delivery_date
+```
+
+## Interactive Dashboards
+👉 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/joohyung.oh/viz/olist-sql/Dashboard2)
+
+
+<img width="1854" height="760" alt="image" src="https://github.com/user-attachments/assets/3b8fb6b8-b496-48f9-ab9b-d2c5e40446d2" />
+
