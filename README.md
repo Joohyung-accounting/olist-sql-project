@@ -59,5 +59,6 @@ delivery_delay = delivered_date - estimated_delivery_date
 👉 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/joohyung.oh/viz/olist-sql/Dashboard2)
 
 
-<img width="1854" height="760" alt="image" src="https://github.com/user-attachments/assets/3b8fb6b8-b496-48f9-ab9b-d2c5e40446d2" />
+<img width="1852" height="765" alt="image" src="https://github.com/user-attachments/assets/d650b4b6-a4c5-4124-a083-210b698b5d2d" />
+
 
