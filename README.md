@@ -56,7 +56,7 @@ delivery_delay = delivered_date - estimated_delivery_date
 ```
 
 ## Interactive Dashboards
-👉 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/joohyung.oh/viz/olist-sql/Dashboard2)
+👉 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/joohyung.oh/viz/Olist-CustomerSatisfaction/CustomerSatisfactionDashboard)
 
 
 <img width="1852" height="765" alt="image" src="https://github.com/user-attachments/assets/d650b4b6-a4c5-4124-a083-210b698b5d2d" />
